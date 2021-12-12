@@ -1,5 +1,5 @@
 {
-    "name": "patoui/laravel-bad-word",
+    "name": "ryangurn/laravel-bad-word",
     "description": "Laravel bad word validation rule",
     "keywords": [
         "patoui",
@@ -16,11 +16,17 @@
             "email": "patrique.ouimet@gmail.com",
             "homepage": "https://patriqueouimet.ca",
             "role": "Developer"
+        },
+        {
+            "name": "Ryan Gurnick",
+            "email": "ryangurnick@gmail.com",
+            "homepage": "http://ryangurnick.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/validation": "~5.0||~6.0||~7.0||~8.0"
+        "illuminate/validation": "^5.0|^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "~3.4",
